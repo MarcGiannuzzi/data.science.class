@@ -1,0 +1,3 @@
+[submodule "gcp-ml-cheatsheet"]
+	path = gcp-ml-cheatsheet
+	url = https://github.com/ta-da-ta/gcp-ml-cheatsheet.git
