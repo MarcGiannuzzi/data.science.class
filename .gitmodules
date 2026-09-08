@@ -1,3 +1,18 @@
 [submodule "gcp-ml-cheatsheet"]
 	path = gcp-ml-cheatsheet
 	url = https://github.com/ta-da-ta/gcp-ml-cheatsheet.git
+[submodule "stanford-cs-229-machine-learning"]
+	path = stanford-cs-229-machine-learning
+	url = https://github.com/afshinea/stanford-cs-229-machine-learning.git
+[submodule "stanford-cs-230-deep-learning"]
+	path = stanford-cs-230-deep-learning
+	url = https://github.com/afshinea/stanford-cs-230-deep-learning.git
+[submodule "stanford-cs-221-artificial-intelligence"]
+	path = stanford-cs-221-artificial-intelligence
+	url = https://github.com/afshinea/stanford-cs-221-artificial-intelligence.git
+[submodule "stanford-cme-295-transformers-large-language-models"]
+	path = stanford-cme-295-transformers-large-language-models
+	url = https://github.com/afshinea/stanford-cme-295-transformers-large-language-models.git
+[submodule "stanford-cme-296-diffusion-large-vision-models"]
+	path = stanford-cme-296-diffusion-large-vision-models
+	url = https://github.com/afshinea/stanford-cme-296-diffusion-large-vision-models.git
